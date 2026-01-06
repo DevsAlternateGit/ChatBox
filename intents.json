@@ -1,0 +1,172 @@
+{
+  "intents": [
+    {
+      "tag": "courses",
+      "patterns": [
+        "courses offered",
+        "streams available",
+        "what courses do you offer"
+      ],
+      "responses": ["We offer Science, Commerce, and Arts streams."]
+    },
+    {
+      "tag": "admission_process",
+      "patterns": ["admission process", "how to apply", "admission procedure"],
+      "responses": [
+        "Admissions are conducted online through the school website."
+      ]
+    },
+    {
+      "tag": "admission_deadline",
+      "patterns": [
+        "last date for admission",
+        "admission deadline",
+        "admission closing date"
+      ],
+      "responses": ["The last date for admission is 30th June."]
+    },
+    {
+      "tag": "school_timing",
+      "patterns": [
+        "school timing",
+        "school hours",
+        "opening time",
+        "closing time"
+      ],
+      "responses": ["School timings are from 8:00 AM to 2:00 PM."]
+    },
+    {
+      "tag": "fee_structure",
+      "patterns": ["fee structure", "school fees", "how much is the fee"],
+      "responses": [
+        "The fee structure depends on the grade. Please contact the school office for details."
+      ]
+    },
+    {
+      "tag": "transport",
+      "patterns": ["transport available", "bus service", "school bus"],
+      "responses": ["Yes, school transport facilities are available."]
+    },
+    {
+      "tag": "location",
+      "patterns": [
+        "school location",
+        "where is the school located",
+        "school address"
+      ],
+      "responses": ["The school is located in Ahmedabad."]
+    },
+    {
+      "tag": "medium",
+      "patterns": [
+        "medium of instruction",
+        "language used",
+        "teaching language"
+      ],
+      "responses": ["The medium of instruction is English."]
+    },
+    {
+      "tag": "hostel",
+      "patterns": [
+        "hostel facility",
+        "is hostel available",
+        "boarding facility"
+      ],
+      "responses": ["No, hostel facilities are not available."]
+    },
+    {
+      "tag": "contact_number",
+      "patterns": ["contact number", "phone number", "call the school"],
+      "responses": ["You can contact us at +91-XXXXXXXXXX."]
+    },
+    {
+      "tag": "email",
+      "patterns": ["email address", "school email", "email id"],
+      "responses": ["You can email us at info@school.com."]
+    },
+    {
+      "tag": "library",
+      "patterns": ["library available", "does school have library"],
+      "responses": [
+        "Yes, the school has a well-equipped library with digital access."
+      ]
+    },
+    {
+      "tag": "sports",
+      "patterns": ["sports facilities", "games available", "sports activities"],
+      "responses": ["We offer cricket, football, and badminton facilities."]
+    },
+    {
+      "tag": "computer_lab",
+      "patterns": ["computer lab", "computer facilities", "computer classes"],
+      "responses": ["Yes, the school has fully equipped computer laboratories."]
+    },
+    {
+      "tag": "teachers",
+      "patterns": [
+        "teacher qualification",
+        "faculty details",
+        "teachers experience"
+      ],
+      "responses": ["All teachers are certified and experienced professionals."]
+    },
+    {
+      "tag": "board",
+      "patterns": ["school board", "education board", "cbse or state board"],
+      "responses": ["The school follows the CBSE board curriculum."]
+    },
+    {
+      "tag": "exams",
+      "patterns": ["exam pattern", "assessment method", "exams conducted"],
+      "responses": ["Examinations are conducted as per CBSE guidelines."]
+    },
+    {
+      "tag": "scholarship",
+      "patterns": ["scholarship", "financial aid", "fee concession"],
+      "responses": ["Merit-based scholarships are available."]
+    },
+    {
+      "tag": "uniform",
+      "patterns": ["school uniform", "uniform compulsory", "dress code"],
+      "responses": ["Yes, wearing the school uniform is mandatory."]
+    },
+    {
+      "tag": "website",
+      "patterns": ["school website", "official website", "website link"],
+      "responses": ["Visit our website at www.school.com."]
+    },
+    {
+      "tag": "holidays",
+      "patterns": ["school holidays", "vacation list", "holiday schedule"],
+      "responses": [
+        "The holiday list is shared at the beginning of the academic year."
+      ]
+    },
+    {
+      "tag": "attendance",
+      "patterns": [
+        "attendance policy",
+        "minimum attendance",
+        "attendance requirement"
+      ],
+      "responses": ["A minimum of 75% attendance is required."]
+    },
+    {
+      "tag": "parent_meeting",
+      "patterns": ["parent teacher meeting", "ptm", "parent meeting"],
+      "responses": ["Parent-teacher meetings are conducted once every term."]
+    },
+    {
+      "tag": "online_classes",
+      "patterns": ["online classes", "virtual classes", "online learning"],
+      "responses": ["Online classes are conducted when required."]
+    },
+    {
+      "tag": "safety",
+      "patterns": ["student safety", "security measures", "school safety"],
+      "responses": [
+        "The school ensures student safety with CCTV and trained staff."
+      ]
+    }
+  ]
+}
